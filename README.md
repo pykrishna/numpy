@@ -8,4 +8,4 @@ NumPy aims to provide an array object that is up to 50x faster that traditional 
 
 The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.
 
-Arrays are very frequently used in data science, where speed and resources are very important.
+Arrays are very frequently used in data sciences, where speed and resources are very important.
